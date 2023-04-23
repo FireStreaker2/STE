@@ -1,0 +1,15 @@
+{
+	"name": "Simple Text Editor",
+	"short_name": "STE",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "A simple text editor.",
+	"icons": [
+		{
+			"src": "favicon.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	]
+}

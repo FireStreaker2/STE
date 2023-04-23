@@ -52,8 +52,8 @@ quit.addEventListener("click", () => {
     if (!confirmed) {
         return;
     }
-    
-    window.close();
+
+    alert("press control + w lmao")
 });
 
 undo.addEventListener("click", () => {
